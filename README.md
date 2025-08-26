@@ -81,7 +81,7 @@
   </header><div class="navbar">
     <div class="main navbar"></div> <!-- -->
     <a href="https://golden-lab-bit.github.io/Labaran-wasanni/">Labaran Wasanni</a>
-    <a href="#">Kai Tsaye(live)</a>
+    <a href="https://golden-lab-bit.github.io/labaran-wasanni-live/">Kai Tsaye(live)</a>
     <a href="https://golden-lab-bit.github.io/labaran-wasanni-fixtures/">Fixtures</a>
   </div>
 
