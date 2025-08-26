@@ -1,4 +1,4 @@
-# labaran-wasanni-fixtures
+<!DOCTYPE html>
 <html lang="en">
 <head>
   <meta charset="UTF-8">
@@ -59,9 +59,31 @@
     .team {
       font-weight: bold;
     }
+    body { margin: 0; font-family: Arial; }
+    }
+   .navbar {
+      display: flex;
+      background-color: #f2f2f2;
+      overflow-x: auto;
+      white-space: nowrap;
+    }
+     .navbar a {
+      display: inline-block;
+      color: GoLD;
+      padding: 14px 20px;
+      text-decoration: none;
+    }
+    .navbar a:hover {
+      background-color: black;
   </style>
 </head>
-<body>
+<body>   <h1>Golden E-sport</h1>
+  </header><div class="navbar">
+    <div class="main navbar"></div> <!-- -->
+    <a href="https://golden-lab-bit.github.io/Labaran-wasanni/">Labaran Wasanni</a>
+    <a href="#">Kai Tsaye(live)</a>
+    <a href="https://golden-lab-bit.github.io/labaran-wasanni-fixtures/">Fixtures</a>
+  </div>
 
   <div class="header">Scores & Fixtures</div>
 
