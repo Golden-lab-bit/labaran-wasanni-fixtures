@@ -77,45 +77,42 @@
       background-color: black;
   </style>
 </head>
-<body>   <h1>Golden E-sport</h1>
+<body>   
   </header><div class="navbar">
-    <div class="main navbar"></div> <!-- -->
+    <div class="main navbar"></div> <!-- Hambuger menu -->
     <a href="https://golden-lab-bit.github.io/Labaran-wasanni/">Labaran Wasanni</a>
     <a href="https://golden-lab-bit.github.io/labaran-wasanni-live/">Kai Tsaye(live)</a>
     <a href="https://golden-lab-bit.github.io/labaran-wasanni-fixtures/">Fixtures</a>
   </div>
 
   <div class="header">Scores & Fixtures</div>
-
   <div class="date-nav">
-    <button>Thu 21</button>
-    <button>Fri 22</button>
-    <button>Sat 23</button>
-    <button>Sun 24</button>
+    <button>Mon 25</button>
     <button>Yesterday</button>
     <button class="active">Today</button>
     <button>Tomorrow</button>
-    <button>Thu 28</button>
     <button>Fri 29</button>
   </div>
-
-  <div class="fixtures">
-    <h2>Tuesday 26th August - Carabao Cup (Second Round)</h2>
+   <p> 
+    <div class="match">
+      <div class="team">Everton</div>
+      <div class="time">7:45pm</div>
+      <div class="team">Mansfield Town</div>
+    </div>
     
     <div class="match">
-      <div class="team">Reading</div>
-      <div class="time">7:00pm</div>
+      <div class="team">Oxford United</div>
+      <div class="time">7:45pm</div>
       <div class="team">Cambridge United</div>
-      <div class="time">7:30pm</div>
     </div>
 
     <div class="match">
-      <div class="team">Leeds United</div>
+      <div class="team">Manchester United</div>
       <div class="time">8:00pm</div>
-      <div class="team">Swansea City</div>
-      <div class="time">8:00pm</div>
+      <div class="team">Grimsby Town</div>
+      
     </div>
   </div>
-
+   </p>
 </body>
 </html>
